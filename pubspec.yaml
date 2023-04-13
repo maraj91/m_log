@@ -1,6 +1,6 @@
 name: m_log
-description: An easy and light wait log library with log color.
-version: 0.0.3
+description: An easy and light wait log library with log color
+version: 0.0.4
 homepage: https://github.com/maraj91/m_log
 
 environment:
