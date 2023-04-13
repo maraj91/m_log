@@ -56,7 +56,7 @@ MLog.w(tag: "MARAJ -->> ",content: "This is W");
 
 ## Output
 
-![](https://raw.githubusercontent.com/maraj91/master/screenshot/console_output.png)
+![](https://github.com/maraj91/m_log/blob/master/screenshot/console_output.png)
 
 
 ##tag field is optional
