@@ -15,7 +15,7 @@ Add this to your package's pubspec.yaml file:
 
 ```
 dependencies:
-  m_log: ^0.0.4
+  m_log: ^0.0.6
   
 ``` 
 
@@ -27,7 +27,7 @@ with Flutter
 
 
 ```
-$ flutter packages get
+$ flutter pub add m_log
   
 ```
 
@@ -59,4 +59,4 @@ MLog.w(tag: "MARAJ -->> ",content: "This is W");
 ![](https://github.com/maraj91/m_log/blob/master/screenshot/console_output.png)
 
 
-##tag field is optional
+## tag field is optional
